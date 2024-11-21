@@ -1,7 +1,6 @@
-﻿# ccti
-# Project Title
 
-This repository contains various code examples and implementations. Below are links to specific sections:
+# CCTI
+
 
 ## a. Create a simple PHP script to connect to a database and retrieve data
 
