@@ -1,7 +1,7 @@
 ﻿# ccti
 a.	Create a simple PHP script to connect to a database and retrieve data.
     
-     https://github.com/NukhuGama/ccti/blob/main/databasecon.php 
+     [databasecon.php](https://github.com/NukhuGama/ccti/blob/main/databasecon.php)
      https://github.com/NukhuGama/ccti/blob/main/index.php 
 
 b.	Build a basic HTML form and process it using PHP.
