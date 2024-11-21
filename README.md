@@ -13,8 +13,5 @@ d.	Create a REST API using ASP.NET Core
 
 https://github.com/NukhuGama/ccti/blob/main/aspnet-rest-api.cs 
 
-## How to run the program :
-1. Clone the guthub link
-2. Create database name "emp_db" and import sql file emp_db.sql
-3. Run localhost://ccti then see the output
+
 
