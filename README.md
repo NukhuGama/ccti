@@ -4,7 +4,7 @@
 
 ## a. Create a simple PHP script to connect to a database and retrieve data
 
-1. [Connect to Database and Retrieve Data - databasecon.php](https://github.com/NukhuGama/ccti/blob/main/databaseconn.php)
+1. [Connect to Database and Retrieve Data - databaseconn.php](https://github.com/NukhuGama/ccti/blob/main/databaseconn.php)
 2. [Index Page to Display Data - index.php](https://github.com/NukhuGama/ccti/blob/main/index.php)
 
 ## b. Build a basic HTML form and process it using PHP
